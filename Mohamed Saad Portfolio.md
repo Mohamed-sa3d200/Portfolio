@@ -7,6 +7,10 @@ Currently building experience through **TryHackMe**, **HackTheBox**, and real-wo
 
 ---
 
+## 🎓 Education
+- **B.Sc. in Computer Science & Artificial Intelligence**  
+  Cairo University, Faculty of Computers and Artificial Intelligence  
+
 ## 🧰 Skills
 ### 🔹 Technical Skills
 - Kali Linux & Parrot OS  
